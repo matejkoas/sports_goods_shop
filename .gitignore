@@ -1,0 +1,6 @@
+*.txt
+*.csv
+.ipynb_checkpoints/
+*.xlsx
+*.db
+*.png
