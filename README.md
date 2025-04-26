@@ -1,3 +1,21 @@
+Comprehensive Study of Purchases in a Sporting Goods Store
+Research file: sports_goods_shop.ipynb
+
+Tasks:
+Recover lost data
+Analyze A/B test results and provide business recommendations on the use of advertising tools
+Segment the audience into clusters and suggest methods for working with each group
+Build a model predicting a customer's propensity to purchase a specific product
+
+Results:
+Lost data was recovered using a Random Forest model
+A/B test results were analyzed using a t-test; the data was first collected and cleaned. Business recommendations were provided.
+Customer base was clustered using the K-means algorithm. Clustering quality was improved through feature engineering.
+A predictive model was built based on the interaction matrix, using the TensorFlow package.
+Open the sports_goods_shop.ipynb file to view the full research!
+
+=======================================================================
+
 Комплексное исследование покупок в магазине спортивных товаров.  
 Файл с исследованием: sports_goods_shop.ipynb
 
